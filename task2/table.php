@@ -4,6 +4,7 @@
 // dynamic columns // 4
 // check if gender of user == m ==> male // 1
 // check if gender of user == f ==> female // 1
+
 $users = [
     (object)[
         'id' => 1,
@@ -124,3 +125,5 @@ $table .= "</td>";
 </body>
 
 </html>
+
+
